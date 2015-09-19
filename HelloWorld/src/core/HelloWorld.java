@@ -1,6 +1,6 @@
 package core;
 /**
- * A simple program familiar to all programmers
+ * A simple program familiar to all programmers for git test purposes
  * @author Chesca (Anna F. Umeno)
  *
  */
